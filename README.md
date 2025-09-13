@@ -14,17 +14,6 @@ Your proficiency in implementing these changes and writing comprehensive tests.
 
 Your communication around the rationale for your changes.
 
-### 🚧 The Junior Developer's Submission
-A junior developer has submitted this draft for review. It includes:
-
-Basic Structures: Foundational classes for Event, TimeSlot, and Calendar have been created.
-
-Initial Logic: Core methods like findConflicts() are implemented, but may be inefficient, buggy, or lack edge cases.
-
-Minimal Tests: A few unit tests exist, but coverage is incomplete and may not test for failure scenarios.
-
-Known Issues: The code likely contains problems with architecture, error handling, naming, and adherence to principles like DRY and SOLID.
-
 ### 🎯 Your Exercise: The Senior Engineer's Review
 Your goal is to make this code production-ready. Please be prepared to:
 
@@ -35,8 +24,6 @@ Refactor: Improve the code structure, naming, and efficiency. Justify your desig
 Implement Features: Complete the implementation for:
 
 Adding a new event without time conflicts.
-
-Finding available time slots between multiple users.
 
 Write Tests: Build a robust test suite that ensures reliability, covering happy paths, edge cases, and potential failures.
 
