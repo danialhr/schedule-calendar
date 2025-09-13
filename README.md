@@ -1,4 +1,46 @@
-# Schedule Calendar
+### Schedule Calendar - Code Review Interview Repo
+Disclaimer: This is a sample submission from a junior developer. It is a partial implementation and does not represent our company's coding standards or best practices. It exists purely for interview and training purposes.
+
+### 🎯 Interview Purpose
+This repository contains a code submission for a calendar scheduling feature. Your task is not to build a feature from scratch, but to review and refactor this code as a Senior Engineer would.
+
+We will evaluate you on:
+
+Your ability to analyze and critique existing code.
+
+Your skill in designing improvements for structure, clarity, and performance.
+
+Your proficiency in implementing these changes and writing comprehensive tests.
+
+Your communication around the rationale for your changes.
+
+### 🚧 The Junior Developer's Submission
+A junior developer has submitted this draft for review. It includes:
+
+Basic Structures: Foundational classes for Event, TimeSlot, and Calendar have been created.
+
+Initial Logic: Core methods like findConflicts() are implemented, but may be inefficient, buggy, or lack edge cases.
+
+Minimal Tests: A few unit tests exist, but coverage is incomplete and may not test for failure scenarios.
+
+Known Issues: The code likely contains problems with architecture, error handling, naming, and adherence to principles like DRY and SOLID.
+
+### 🎯 Your Exercise: The Senior Engineer's Review
+Your goal is to make this code production-ready. Please be prepared to:
+
+Code Review: Identify and explain the strengths and weaknesses of the current implementation.
+
+Refactor: Improve the code structure, naming, and efficiency. Justify your design choices.
+
+Implement Features: Complete the implementation for:
+
+Adding a new event without time conflicts.
+
+Finding available time slots between multiple users.
+
+Write Tests: Build a robust test suite that ensures reliability, covering happy paths, edge cases, and potential failures.
+
+Document: Add clear comments and update the README to explain your changes.
 
 ## Getting started
 
